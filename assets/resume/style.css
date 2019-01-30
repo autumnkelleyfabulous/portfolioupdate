@@ -1,0 +1,126 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+body {
+
+    background: purple;
+    background-image: url("http://dr-schulz-pr.info/wp-content/uploads/2018/07/printable-adult-color-pages-best-printable-mandalas-to-color-free-images-on-in-mandala-coloring-pages-adults-coloring-pages-online-to-print.jpg");");
+    background-repeat: repeat;
+    font-family: "cursive" "arial", "helvetica Neue", "Helvetica" "sans-serif";
+    font-size: 18px;
+    line-height: 150%;
+}
+
+h1 { 
+    /* color:#777; */
+    font-family: cursive;
+    background-color:lavender;
+    border: 1px color purple;
+    margin: 0;
+    text-align: center; 
+    padding-top: 20 px;
+    padding-bottom: 20px;
+    font-size: 28px;
+}
+
+h2 {
+    color: blueviolet;
+    margin: 0;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 24px;
+}
+
+    
+
+p  {
+    background-color: rgb(187, 164, 240); 
+    font-family: cursive;
+    color: #777;
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    width: 100%;
+    /* float: right; */
+}
+a { 
+    color: blueviolet
+
+}
+ 
+.container {
+    /* background-color: #ebebeb; */
+    width: 512px;
+    border: 1px solid purple;
+    margin: 0 auto;
+}
+
+section{ 
+    padding: 20px;
+    margin: 0 auto; 
+}
+
+
+#bio-image {
+    margin-right: 10px;
+    width: 495px;
+    height: 400px;
+    float: right;
+} 
+
+#main-bio {
+    background-color: rgb(17, 166, 211);
+    width: 495px;
+    border: 1px solid purple;
+    /* float: left; */
+}
+
+#contact-info {
+    background-color: violet;
+    width: 495px;
+}
+.topnav {
+    background-color: rgb(184, 89, 155)06);
+    overflow: hidden;
+    width: 537px; 
+}
+
+.topnav a {
+    float: left;
+    color: purple;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: rgb(176, 90, 216);
+    color: white;
+}
+
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(247, 222, 113);
+}
+
+footer { 
+    color: black;
+    font-family: cursive;
+    background-color: rgb(187, 164, 240;
+    text-align: center; 
+    padding-bottom: 10px;
+    font-size: 15px;
+}
