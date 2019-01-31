@@ -112,8 +112,13 @@ a {
     padding: 8px;
     background-color: rgb(247, 222, 113);
 }
+.buttons{
+    height: 200px;
+    width: 50%;
+}
 
-footer { 
+footer {
+
     color: black;
     font-family: cursive;
     background-color: rgb(187, 164, 240);
