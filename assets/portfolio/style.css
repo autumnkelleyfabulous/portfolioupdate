@@ -112,11 +112,14 @@ a {
     padding: 8px;
     background-color: rgb(247, 222, 113);
 }
-.btn-giftastic{
+/* .btn-giftastic{
     height: 200px;
     width: 50%;
-}
-
+} */
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
 footer {
 
     color: black;

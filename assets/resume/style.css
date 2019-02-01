@@ -1,12 +1,7 @@
-@media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
-    }
-  }
+@media only screen and (max-width: 600px); 
 
 body {
-
-    background: purple;
+    background-color: purple;
     background-image: url(assets/images/background.jpg);
     background-repeat: repeat;
     font-family: "cursive" "arial", "helvetica Neue", "Helvetica" "sans-serif";
